@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@accingneff7a001/totam-aliquid-illo",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,27 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/accingneff7a001/totam-aliquid-illo.git"
   },
   "dependencies": {
+    "@accingneff7a001/ea-aut-amet": "^1.0.0",
+    "@accingneff7a001/enim-nostrum-saepe": "^1.0.0",
+    "@accingneff7a001/ipsam-expedita-ex": "^1.0.0",
+    "@accingneff7a001/ipsum-nostrum-fugiat": "^1.0.0",
+    "@accingneff7a001/iste-vero-in": "^1.0.0",
+    "@accingneff7a001/iusto-voluptatem-minus": "^1.0.0",
+    "@accingneff7a001/libero-repudiandae-quo": "^1.0.0",
+    "@accingneff7a001/maiores-fugit-nobis": "^1.0.0",
+    "@accingneff7a001/nam-nesciunt-dolorum": "^1.0.0",
+    "@accingneff7a001/natus-ipsum-maiores": "^1.0.0",
+    "@accingneff7a001/officiis-error-tempora": "^1.0.0",
+    "@accingneff7a001/pariatur-cupiditate-sapiente": "^1.0.0",
+    "@accingneff7a001/provident-doloribus-deleniti": "^1.0.0",
+    "@accingneff7a001/quia-quo-fugiat": "^1.0.0",
+    "@accingneff7a001/quo-ut-nobis": "^1.0.0",
+    "@accingneff7a001/repellat-iure-repudiandae": "^1.0.0",
+    "@accingneff7a001/rerum-ut-laboriosam": "^1.0.0",
+    "@accingneff7a001/similique-non-aut": "^1.0.0",
+    "@accingneff7a001/tempore-vel-labore": "^1.0.0"
   }
 }
